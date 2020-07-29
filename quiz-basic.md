@@ -12,24 +12,24 @@
 | 名词           | 是什么               |
 | :------------- | :------------------- |
 | Node.js        | 是 JS 的一个 runtime |
-| npm            | 是 ……                |
-| npx            | 是 ……                |
-| nvm            | 是 ……                |
-| nrm            | 是 ……                |
-| yarn           | 是 ……                |
-| React          | 是 ……                |
-| Vue            | 是 ……                |
+| npm            | 是 node.js包管理器              |
+| npx            | 是 自动查找当前依赖包中可执行的文件               |
+| nvm            | 是 node.js的版本管理，使用它安装node.js               |
+| nrm            | 是 nrm比npm安装更快捷             |
+| yarn           | 是 官方镜像         |
+| React          | 是 js类库               |
+| Vue            | 是 框架               |
 | Flux           | 是 ……                |
 | Mobx           | 是 ……                |
-| MVVM           | 是 ……                |
+| MVVM           | 是 一种设计模式            |
 | TDD            | 是 ……                |
 | Jest/Mocha     | 是 ……                |
-| node_modules   | 是 ……                |
-| package.json   | 是 ……                |
+| node_modules   | 是 nodejs的模块              |
+| package.json   | 是文件的描述             |
 | ECMAScript     | 是 ……                |
 | Electron       | 是 ……                |
 | Babel          | 是 ……                |
-| Webpack        | 是 ……                |
+| Webpack        | 是 一个基于nodejs的打包工具              |
 | SSR            | 是 ……                |
 | BFF            | 是 ……                |
 | Serverless     | 是 ……                |
@@ -49,4 +49,6 @@
 > - Youtube 的几个频道: Fireship、Traversy Media、DesignCourse …
 > - 掘金、知乎
 
-答：
+答：百度文档
+    gitHub
+    vue官网
